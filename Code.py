@@ -1,1 +1,2 @@
-Print "Hello World"
+def Forward_Email():
+     print(1)
