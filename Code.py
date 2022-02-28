@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from selenium import webdriver
 from getpass import getpass
 def autologin():
@@ -16,3 +17,7 @@ def autologin():
      login_button = driver.find_element_by_id("_shib_idp_revokeConsent")
      login_button.submit()   
 autologin()
+=======
+def Login_in_Site():
+     print(1)
+>>>>>>> 23c5f0af7040b2af80dc09d85f19352ad3945f7c
